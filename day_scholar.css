@@ -1,0 +1,84 @@
+<style>
+    button{
+        height:12%;
+        /* width:14%; */
+        width: 140px;
+        -webkit-transition-duration: 0.4s;
+        border:2px;
+        border: 2px solid white;
+        padding: 0%;
+        font-size:24px;
+        font-family: arial,bold;
+        text-align: center;
+        background-color: green;
+        color:white;
+    }
+    textarea{
+        width:100%;
+    }
+    button:hover{
+        background-color: white;
+        border:2px solid green;
+        color:green;
+    }
+    img{
+    height:100%;
+    width:100%;
+border-radius:50%;
+max-height:500px;
+position: static;
+}
+.container{
+    background-color:none;
+}
+h1{
+   
+    color: aliceblue;
+}
+#head{
+background-color: green;
+}
+.row.bottom{
+    background-color: green;
+    height: 60px;
+}
+body{
+   
+    background-size:cover;
+}
+table{
+    color:white;
+}
+.myimg{
+transition-duration: 2s;
+}
+
+td{
+    color:black;
+}
+.file{
+    background-color: greenyellow;
+    border:2px solid white;
+}
+.topnav a {
+    float: left;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+    background-color: black;
+  }
+  .row.nav{
+      background-color: black;
+  }
+  .topnav a:hover {
+    background-color: #ddd;
+    color: black;
+  }
+  
+  .topnav a.active {
+    background-color: green;
+    color: white;
+  }
+</style>

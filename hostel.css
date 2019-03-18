@@ -1,0 +1,85 @@
+
+    button{
+        height:12%;
+        /* width:14%; */
+        width: 140px;
+        -webkit-transition-duration: 0.4s;
+        
+        border: 2px solid white;
+        padding: 0;
+        font-size:24px;
+        font-family: arial,bold;
+        text-align: center;
+        background-color: violet;
+        color:white;
+    }
+    button:hover{
+        background-color: white;
+        border:2px solid violet;
+        color:violet;
+    }
+    img{
+    height:100%;
+    width:100%;
+border-radius:50%;
+max-height:500px;
+position: static;
+}
+.container{
+    background-color:none;
+}
+h1{
+   
+    color: aliceblue;
+}
+#head{
+background-color: violet;
+}
+.row.bottom{
+    background-color: violet;
+    height: 60px;
+    padding:0;
+}
+body{
+   
+    background-size:cover;
+}
+table{
+    color:white;
+}
+textarea{
+    width:100%;
+}
+.myimg{
+transition-duration: 2s;
+}
+
+td{
+    color:black;
+}
+.file{
+    background-color: rgb(225, 130, 238);
+    border:2px solid white;
+}
+.topnav a {
+    float: left;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+    background-color: black;
+  }
+  .row.nav{
+      background-color: black;
+  }
+  .topnav a:hover {
+    background-color: #ddd;
+    color: black;
+  }
+  
+  .topnav a.active {
+    background-color:  rgb(225, 130, 238);
+    color: white;
+  }
+
